@@ -2,7 +2,7 @@
 
 QA certificada **ISTQB**, com formação prática em automação de testes pela **EBAC-QE**. Atuo em todas as frentes de teste — manual, E2E, API, mobile e performance — e gosto de entender o sistema de ponta a ponta antes de escrever o primeiro teste.
 
-📫 [LinkedIn](https://www.linkedin.com/in/aline-vieira-s-bierhals-42728589/) · ✉️ alinevbierhals@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/aline-bierhals-42728589/?skipRedirect=true) · ✉️ alinevbierhals@gmail.com
 
 ## 🛠️ Stack
 
