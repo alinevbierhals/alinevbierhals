@@ -6,7 +6,7 @@ QA certificada **ISTQB**, com formação prática em automação de testes pela 
 
 ## 🛠️ Stack
 
-`Cypress` `WebdriverIO` `Appium` `Playwright``JavaScript` `Postman` `Swagger` `Apache JMeter` `SQL` `GitHub Actions` `Git`
+`Cypress` `Playwright` `WebdriverIO` `Appium` `JavaScript` `TypeScript` `Postman` `Swagger` `Apache JMeter` `SQL` `GitHub Actions` `Git`
 
 ## 📌 Projetos em destaque
 
