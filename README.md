@@ -28,5 +28,4 @@ Teste de carga com JMeter (correlação de token, asserções de tempo de respos
 ### 🎭 [playwright-mark](https://github.com/alinevbierhals/playwright-mark)
 Suíte de testes automatizados com Playwright (TypeScript), aplicando Page Object Model.
 
-
 💡 Aberta a oportunidades como QA Júnior.
